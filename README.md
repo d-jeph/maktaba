@@ -1,5 +1,5 @@
-# django_local_library
-Tutorial "Local Library" website written in Django.
+# Maktaba- a swahili word for library
+Library web app written in Django.
 
 ----
 
